@@ -1,0 +1,2 @@
+# doc_genai_About_specific_use_cases_for_large-scale_language_models_LLM
+大規模言語モデル（LLM）の具体的なユースケースについて
